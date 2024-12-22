@@ -38,62 +38,24 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [MicrosoftCopilot](https://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- MicrosoftCopilot Para gerar capas
 
 
-## 🛠️ Instruções de execução
+## Tema do Podcast
+ - "Mente Analítica - Reflete a interseção entre análise de dados e tomada de decisões inteligentes nos negócios."
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+## Roteiro gerado por IA
+- Bem-vindos ao Mente Analítica, o podcast onde exploramos como os dados podem transformar negócios e criar decisões mais inteligentes. Eu sou a Jupyter, e no episódio de hoje, vamos desvendar por que a análise de dados é essencial – mesmo que você nunca tenha ouvido falar disso antes. Preparados? Então, vamos nessa! 
+Você sabia que, todos os dias, produzimos mais de 2,5 quintilhões de bytes de dados? Isso inclui desde o ‘curtir’ que você deu na sua rede social até as compras que faz no mercado. Mas você deve estar se perguntando: ‘O que isso tem a ver comigo ou com o meu negócio?’ Bem, imagine uma loja que vende roupas. Sem analisar dados, o dono pode até saber que vende muito no fim do ano, mas ele não vai saber que, por exemplo, blusas vermelhas são campeãs de venda nas sextas-feiras. E é esse tipo de informação que pode ajudar a loja a se preparar e lucrar ainda mais.
+Agora, um exemplo ainda mais próximo do nosso dia a dia: você já reparou como os apps de entrega sugerem restaurantes ou pratos que você provavelmente vai gostar? Isso não é mágica, mas análise de dados! Esses apps olham para suas escolhas anteriores e também para o que pessoas com gostos parecidos com os seus pediram. Resultado? Eles aumentam suas chances de acertar na sugestão, e você, sem perceber, toma uma decisão mais rápida e assertiva.
+Viu como os dados podem facilitar a vida? E então, ficou mais claro como os dados estão presentes em tudo? Não é preciso ser um cientista para entender que a análise de dados faz toda a diferença, tanto para empresas quanto para o nosso dia a dia. Espero que você tenha gostado do episódio de hoje e que tenha despertado sua curiosidade sobre o tema. Não se esqueça de seguir o Mente Analítica e compartilhar com quem também pode se interessar. 
+Até o próximo episódio e lembre-se: entender os dados é entender o futuro. Tchau!
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
